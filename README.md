@@ -1,8 +1,8 @@
 # claudiolau
 
-# About
+# About Me
 
-<img src='./assets/avatar.png'>
+<img height='100' width='100' src='./assets/avatar.png'>
 
 Just a simple full-stack datascientist. Here is my humble blog [claudiolau.netlify.app](https://claudiolau.netlify.app/) .
 
