@@ -1,8 +1,13 @@
 # claudio-lau
 
-# Blog & Writing <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px"/>
+# About
 
+<img src='./assets/avatar.png'>
 
-Apart from coding, I also maintain a blog - you can find my articles on my website https://claudiolau.netlify.app/.
+Just a simple full-stack datascientist. Here is my humble blog [claudiolau.netlify.app](https://claudiolau.netlify.app/) .
 
-# Tech Stack 
+# Tech Stack
+
+<img src='https://img.shields.io/badge/Python-3.8-green/?style=flat&logo=appveyor'><img src='https://img.shields.io/badge/Typescript-4.1-green/?style=flat&logo=appveyor'><img src='https://img.shields.io/badge/React-v16.8-green/?style=flat&logo=appveyor'><img src='https://img.shields.io/badge/VIM-brightgreen/?style=flat&logo=appveyor'><img src='https://img.shields.io/badge/SQL-brightgreen/?style=flat&logo=appveyor'><img src='https://img.shields.io/badge/GIT-brightgreen/?style=flat&logo=appveyor'>
+
+[![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiolau&show_icons=true)
